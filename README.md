@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/dbb78f72-d7ce-493d-a19a-46e399b95d91
 # The Project is still in Progress
 
 # Hand-Sign-Detection
@@ -31,4 +29,4 @@ pip install -r requirements.txt
 
 # Explaination Video
 
-Uploading 2024-10-20 19-25-08 (1) (1).mp4…
+https://github.com/user-attachments/assets/762938d4-d5b3-4960-beb9-0915946cf1a1
